@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Header](https://github.com/mak-g/MAYANK GOYAL/raw/master/profile.gif)]
 
 <!--
 **mak-g/mak-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
