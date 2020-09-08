@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## नमस्ते 🙏, I'm MAYANK GOYAL              ![](https://komarev.com/ghpvc/?username=mak-g&color=blue&style=flat-square&label=PROFILE+VIEWS)
-## Full Stack Developer(under progress😎😁) 👨‍💻
+##  भविष्य का Developer(under progress😎😁) 👨‍💻
 
 - 🔭 I’m currently working on taking rest 
 - 🤔 I’m looking for help in learning about Web Dev and JavaScript 
